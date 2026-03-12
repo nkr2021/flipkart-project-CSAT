@@ -35,6 +35,5 @@ This classification model can be used by customer service teams to:
 * **Pandas**: For data manipulation.
 * **NumPy**: For numerical operations.
 * **Matplotlib** & **Seaborn**: For data visualization.
-* **Scikit-learn**: For model selection (`train_test_split`, `GridSearchCV`, `cross_val_score`), preprocessing (`LabelEncoder`, `StandardScaler`), and evaluation metrics (`classification_report`, `accuracy_score`, `precision_score`, `recall_score`, `f1_score`).
-* **RandomForestClassifier**
-* **XGBoost (XGBClassifier)**
+
+
